@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+}
+
+.barra01{
+	background-color: black;
+	color: white;
+	width: 100Vw;
+	height: 10Vh;
+	font-size: 8;
+	font-family: "Times New Roman", Times, serif;
+	text-align: center;
+
+}
+
+.flex{
+	display: flex;
+}
+
+.barra02{
+	background-color: lightcyan;
+	color: black;
+	width: 90Vw;
+	height: 10Vh;
+	font-family: "Times New Roman", Times, serif;
+	text-align: center;
+}
+.barra03{
+	background-color: seashell;
+	color: black;
+	width: 80Vw;
+	height:90Vh;
+}
